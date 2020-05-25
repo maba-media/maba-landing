@@ -21,4 +21,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # scss folder
-*/scss/*
+*/scss
+
+# fonts folder
+*/fonts
